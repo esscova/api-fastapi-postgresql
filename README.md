@@ -33,8 +33,8 @@ Este projeto é uma aplicação FastAPI que utiliza Docker e PostgreSQL para ger
 
 1. Clone o respositório:
 ```bash
-git clone https://github.com/esscova/web-development.git
-cd web-development/fastapi/users-docker-postgres/
+git clone https://github.com/esscova/api-fastapi-postgresql.git
+cd api-fastapi-postgresql
 ```
 
 2. Crie e configure um arquivo `.env` na raiz do projeto seguindo o arquivo `.env.example`.
